@@ -1,4 +1,4 @@
-👋 Hi, I'm Zonique — Cloud & Infrastructure Builder
+👋 Hi, I'm Zonique > Cloud & Infrastructure Builder
 
 I design and build cloud infrastructure, automation systems, and scalable applications using **AWS, Python, Terraform, and AI-driven tooling**.
 
