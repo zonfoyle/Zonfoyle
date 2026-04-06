@@ -1,19 +1,19 @@
-👋 Hi, I’m Zonique — Cloud Infrastructure Engineer
+👋 Hi, I’m Zonique — Aspiring Cloud / DevOps Engineer
 
-I design and build cloud infrastructure, automation systems, and scalable backend services using AWS, Python, and Infrastructure as Code.
+I build cloud infrastructure, automation systems, and event-driven architectures using AWS, Python, and Infrastructure as Code.
 
-My focus is on building secure, automated, and event-driven systems across networking, storage, and messaging layers.
+My focus is on designing scalable, resilient systems across networking, storage, and messaging layers.
 
 🔧 Areas of focus  
 • Cloud Architecture & Distributed Systems  
-• Infrastructure Automation (Python + boto3)  
+• AWS Infrastructure Automation (Python, boto3)  
 • Infrastructure as Code (Terraform)  
-• Event-Driven Systems (SNS, SQS, EventBridge)  
+• Event-Driven Systems (S3, SQS, SNS)  
 • AWS Networking & Security (VPC, IAM)
 
 🚀 Projects  
-• Automated AWS infrastructure provisioning (VPC, EC2, networking)  
-• Built secure S3 + IAM automation system with idempotent workflows  
-• Developing event-driven systems using AWS messaging services  
+• Built AWS infrastructure automation using Python (boto3) to provision VPCs, EC2 instances, and networking components  
+• Developed secure S3 and IAM automation workflows with idempotent resource management  
+• Designed event-driven systems using S3, SQS, and SNS with asynchronous processing, retry handling, and DLQ-based failure recovery   
 
 🔗 LinkedIn: https://www.linkedin.com/in/zonique-foyle/
