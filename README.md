@@ -1,4 +1,4 @@
-👋 Hi, I’m Zonique — Cloud / DevOps Engineer
+👋 Hi, I’m Zonique ("ZON-NEEK") — Cloud / DevOps Engineer
 
 I design and build cloud infrastructure, automation systems, and event-driven architectures using AWS, Python, and Infrastructure as Code.
 
