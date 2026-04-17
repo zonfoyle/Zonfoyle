@@ -1,18 +1,19 @@
-👋 Hi, I’m Zonique ("ZON-NEEK") — Cloud Engineer
+ # 👋 Hi, I’m Zonique ("ZON-NEEK") — Cloud Engineer
 
 I design and build cloud infrastructure, automation systems, and event-driven architectures using AWS, Python, and Infrastructure as Code.
 
 My focus is on creating scalable, resilient systems across networking, compute, and distributed messaging layers.
 
-🛠 Areas of Focus
+## 🛠 Areas of Focus
 
-• Cloud Architecture & Distributed Systems
-• AWS Infrastructure Automation (Python, boto3)
-• Infrastructure as Code (Terraform)
-• Event-Driven Systems (S3, SQS, SNS)
+• Cloud Architecture & Distributed Systems  
+• AWS Infrastructure Automation (Python, boto3)  
+• Infrastructure as Code (Terraform)  
+• CI/CD & GitHub Actions  
+• Event-Driven Systems (S3, SQS, SNS)  
 • AWS Networking & Security (VPC, IAM, Security Groups)
 
-🚀 Projects
+## 🚀 Projects
 
 • Provisioned AWS infrastructure using Terraform, including VPC, subnets, Internet Gateway, route tables, security groups, and EC2, and deployed a live web server accessible via public IP
 
@@ -22,4 +23,13 @@ My focus is on creating scalable, resilient systems across networking, compute, 
 
 • Designed event-driven architecture using S3, SQS, and SNS with asynchronous processing, retry handling, and DLQ-based failure recovery
 
-🔗 LinkedIn: https://www.linkedin.com/in/zonique-foyle/
+## Currently Building
+
+• Terraform CI/CD pipeline using GitHub Actions to automatically validate infrastructure on every push and pull request
+
+• Expanding Terraform workflow with GitHub Secrets, `terraform plan`, and multi-environment support
+
+
+## 🔗 Links
+
+LinkedIn: https://www.linkedin.com/in/zonique-foyle/
