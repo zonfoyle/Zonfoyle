@@ -2,7 +2,7 @@
 
 I build cloud infrastructure, automation workflows, and containerized applications using AWS, Python, Terraform, Docker, and Kubernetes.
 
-Most of the projects I work on are focused on understanding how modern infrastructure is actually built and operated — from provisioning cloud resources and automating deployments to container orchestration and event-driven systems.
+Most of the projects I work on are focused on understanding how modern infrastructure is actually built and operated from provisioning cloud resources and automating deployments to container orchestration and event-driven systems.
 
 My background combines cloud engineering, infrastructure automation, analytics, and operational troubleshooting, with an emphasis on building reliable systems and understanding how the pieces connect end to end.
 
