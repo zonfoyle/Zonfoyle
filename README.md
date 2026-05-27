@@ -1,44 +1,53 @@
 # Hi, I’m Zonique ("ZON-NEEK")
 
-I build cloud infrastructure, automation workflows, and containerized applications using AWS, Python, Terraform, Docker, and Kubernetes.
+I build cloud infrastructure, automation workflows, and containerized platforms using AWS, Python, Terraform, Docker, Kubernetes, Prometheus, and Grafana.
 
-Most of the projects I work on are focused on understanding how modern infrastructure is actually built and operated from provisioning cloud resources and automating deployments to container orchestration and event-driven systems.
+My work focuses on infrastructure automation, Kubernetes deployments, observability, CI/CD workflows, and cloud resource management. I enjoy building systems end to end from provisioning infrastructure and automating deployments to monitoring applications and troubleshooting distributed environments.
 
-My background combines cloud engineering, infrastructure automation, analytics, and operational troubleshooting, with an emphasis on building reliable systems and understanding how the pieces connect end to end.
+My background combines cloud engineering, infrastructure automation, analytics, and operational problem solving with an emphasis on building reliable and scalable systems.
+
+---
 
 ## Areas of Focus
 
-* AWS Cloud Infrastructure
-* Infrastructure as Code with Terraform
-* Python Automation with boto3
-* Docker & Containerized Workflows
-* Kubernetes Fundamentals & Orchestration
-* CI/CD with GitHub Actions
-* Event-Driven Architectures (S3, SQS, SNS)
-* AWS Networking & Security
-* Linux & System Troubleshooting
+- AWS Cloud Infrastructure
+- Infrastructure as Code with Terraform
+- Python Automation with boto3
+- Docker & Containerized Workflows
+- Kubernetes Deployments & Orchestration
+- Prometheus & Grafana Monitoring
+- CI/CD with GitHub Actions
+- Event-Driven Architectures
+- AWS Networking & Security
+- Linux & System Troubleshooting
 
-## Projects
+---
 
-### Flask Kubernetes Deployment
+## Featured Projects
 
-Deployed a Dockerized Flask API into a local Kubernetes cluster using deployments, pods, services, and port-forwarding workflows with Docker Desktop Kubernetes.
+### Kubernetes Monitoring Stack
+
+Built a Kubernetes-based monitoring stack using Flask, Prometheus, and Grafana for real time observability and metrics visualization. Configured Prometheus scraping, Grafana dashboards, Kubernetes deployments, services, and local cluster orchestration with Kind.
+
+### Kubernetes CI/CD Pipeline
+
+Built a CI/CD pipeline using GitHub Actions, Docker, and Kubernetes to automate container builds, deployment workflows, and deployment validation processes.
 
 ### Terraform Infrastructure Automation
 
-Provisioned AWS infrastructure using Terraform, including VPCs, public subnets, route tables, Internet Gateway, security groups, and EC2 deployment with a live web server.
-
-### Dockerized Flask API
-
-Built and containerized a Flask API using Docker and Docker Compose to better understand containerized development workflows and deployment consistency across environments.
-
-### Terraform CI/CD Pipeline
-
-Built a GitHub Actions workflow to automatically validate Terraform infrastructure code on pushes and pull requests.
+Provisioned AWS infrastructure using Terraform including VPCs, public subnets, route tables, Internet Gateway, security groups, and EC2 deployment with a live web server.
 
 ### Cloud Resource Manager
 
-Built a Python and boto3 automation tool to provision AWS networking and compute resources using reusable and idempotent workflows.
+Developed a Python and boto3 automation tool for provisioning AWS networking and compute resources using reusable and idempotent infrastructure workflows.
+
+### Flask Kubernetes Deployment
+
+Deployed a Dockerized Flask API into Kubernetes using deployments, pods, services, scaling workflows, and local orchestration with Docker Desktop Kubernetes.
+
+### Terraform CI/CD Pipeline
+
+Created a GitHub Actions workflow to automatically validate Terraform infrastructure code on pushes and pull requests.
 
 ### S3 Event-Driven System
 
@@ -46,15 +55,19 @@ Designed an event-driven AWS architecture using S3, SQS, and SNS with asynchrono
 
 ### S3 IAM Automation
 
-Developed AWS IAM and S3 automation workflows for programmatic resource provisioning and access management.
+Built AWS IAM and S3 automation workflows for programmatic resource provisioning and access management.
 
-## Currently Learning
+---
 
-* Kubernetes networking and scaling
-* Monitoring and observability tooling
-* Advanced CI/CD workflows
-* Multi-environment Terraform deployments
-* Infrastructure deployment patterns
+## Currently Working On
+
+- Kubernetes networking and scaling
+- Monitoring and observability workflows
+- Advanced CI/CD automation
+- Multi-environment Terraform deployments
+- Infrastructure deployment patterns
+
+---
 
 
 ## 🔗 Links
