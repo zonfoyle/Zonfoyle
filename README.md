@@ -1,10 +1,10 @@
 # Hi, I’m Zonique ("ZON-NEEK")
 
-I build cloud infrastructure, automation workflows, and containerized platforms using AWS, Python, Terraform, Docker, Kubernetes, Prometheus, and Grafana.
+I build cloud infrastructure, automation workflows, and containerized platforms using AWS, Python, Terraform, Docker, Kubernetes, Helm, Prometheus, and Grafana.
 
-My work focuses on infrastructure automation, Kubernetes deployments, observability, CI/CD workflows, and cloud resource management. I enjoy building systems end to end from provisioning infrastructure and automating deployments to monitoring applications and troubleshooting distributed environments.
+My work focuses on infrastructure automation, Kubernetes orchestration, observability, CI/CD workflows, and cloud resource management. I enjoy building systems end to end from provisioning infrastructure and automating deployments to monitoring applications and troubleshooting distributed environments.
 
-My background combines cloud engineering, infrastructure automation, analytics, and operational problem solving with an emphasis on building reliable and scalable systems.
+My background combines cloud engineering, infrastructure automation, analytics, and operational problem solving with an emphasis on building reliable, scalable, and maintainable systems.
 
 ---
 
@@ -15,6 +15,7 @@ My background combines cloud engineering, infrastructure automation, analytics, 
 - Python Automation with boto3
 - Docker & Containerized Workflows
 - Kubernetes Deployments & Orchestration
+- Helm & Kubernetes Platform Engineering
 - Prometheus & Grafana Monitoring
 - CI/CD with GitHub Actions
 - Event-Driven Architectures
@@ -28,6 +29,10 @@ My background combines cloud engineering, infrastructure automation, analytics, 
 ### Kubernetes Monitoring Stack
 
 Built a Kubernetes-based monitoring stack using Flask, Prometheus, and Grafana for real time observability and metrics visualization. Configured Prometheus scraping, Grafana dashboards, Kubernetes deployments, services, and local cluster orchestration with Kind.
+
+### Helm Kubernetes Platform
+
+Built a Helm-based Kubernetes platform for managing reusable application deployments, centralized configuration, and scalable orchestration workflows using Deployments, Services, ConfigMaps, and Horizontal Pod Autoscaling.
 
 ### Kubernetes CI/CD Pipeline
 
@@ -66,9 +71,9 @@ Built AWS IAM and S3 automation workflows for programmatic resource provisioning
 - Advanced CI/CD automation
 - Multi-environment Terraform deployments
 - Infrastructure deployment patterns
+- Kubernetes platform engineering concepts
 
 ---
-
 
 ## 🔗 Links
 
